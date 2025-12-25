@@ -21,7 +21,7 @@ The program allows the user to save multiple customer records and view all store
 ## Working of the Program
 1. The program displays a menu with options.
 2. The user selects an option:
-   - Save a new customer record
+   - Open a new customer record
    - Display all customer records
    - Exit the program
 3. Based on the selection, the corresponding operation is performed.
